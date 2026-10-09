@@ -1,0 +1,12 @@
+[
+  {"question": "How do I reset my password?", "expected_chunk_question": "How do I reset my password?"},
+  {"question": "What are your support hours?", "expected_chunk_question": "What are the support hours?"},
+  {"question": "How can I change my billing details?", "expected_chunk_question": "How do I update my billing information?"},
+  {"question": "Can I cancel whenever I want?", "expected_chunk_question": "Can I cancel my subscription at any time?"},
+  {"question": "How do I add a teammate?", "expected_chunk_question": "How do I invite a teammate?"},
+  {"question": "How do I remove someone from my team?", "expected_chunk_question": "How do I remove a teammate?"},
+  {"question": "What kinds of files can I upload?", "expected_chunk_question": "What file types can I upload?"},
+  {"question": "Is my information kept secure?", "expected_chunk_question": "Is my data encrypted?"},
+  {"question": "Do you have a free trial?", "expected_chunk_question": "Do you offer a free trial?"},
+  {"question": "Who should I email about an invoice?", "expected_chunk_question": "Who do I contact for billing questions?"}
+]
